@@ -39,7 +39,8 @@ La aplicación concatena la entrada del usuario directamente en la consulta SQL.
 - **Referencia:** OWASP Top 10 — A03: Injection · CWE-89
 
 ## 🧠 Lo que aprendí
-- 
+- La comilla ' cierra el texto y lo que sigue se ejecuta como SQL.
+-- comenta el resto de la consulta y por eso se salta el filtro released = 1
 - 
 
 ## ❓ Dudas pendientes
